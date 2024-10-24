@@ -8,5 +8,5 @@
   <img src="https://github.com/GSSoC24/Postman-Challenge/blob/main/docs/assets/6.png" width="100px" height="100px" />
   <img src="https://github.com/GSSoC24/Postman-Challenge/blob/main/docs/assets/7.png" width="100px" height="100px" />
   <img src="https://github.com/GSSoC24/Postman-Challenge/blob/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://github.com/GSSoC24/Postman-Challenge/blob/main/docs/assets/9.png" width="100px" height="100px" />
+ 
 </div>
